@@ -1,0 +1,22 @@
+.blank {
+  color: red;
+}
+
+li {
+  list-style-type: none;
+}
+
+.heading1 {
+  margin-top: 2vw;
+  margin-bottom: 0vw;
+}
+
+#h51 {
+  border: 1px solid grey;
+  border-radius: 4px;
+  min-height: 10vh;
+  padding: 0.2vw 0.5vw;
+}
+#h51:hover{
+  box-shadow: 0px 0px 2px 2px rgb(0, 255, 255);
+}
